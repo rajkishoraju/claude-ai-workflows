@@ -1,5 +1,5 @@
 # Claude AI Workflows & Mindmaps
-Open-source collection of Claude workflows, prompts, and visual mindmaps by @rajkishor
+Open-source collection of Claude workflows, prompts, and visual mindmaps by @rajkishoraju
 
 ### 🚀 What is this?
 I share free, visual AI education to help solo founders and students build with Claude without a big team.
