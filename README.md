@@ -24,7 +24,7 @@ I share free, visual AI education to help solo founders and students build with 
 This is open for all. Star this repo and share your own Claude workflows via PR.
 
 ### Connect
-- LinkedIn: linkedin.com/in/rajkishor
-- Instagram: @rajkishor
+- LinkedIn: linkedin.com/in/rajkishoraju
+- Instagram: @rajkishoraju
 
 Built with Claude 💜
